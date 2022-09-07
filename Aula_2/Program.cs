@@ -22,6 +22,7 @@ namespace aula_02
             for(int j = 0; j < 10; j++){
                 Console.WriteLine(coisa[i,j]);
             }
+            i--;//3.2 
         }
     }
         //Chamando tudo -------------------------------------------------------
@@ -39,5 +40,5 @@ namespace aula_02
 
 
 //V3 - THIRDY ALTERATION
-//V3.1 - BRANCH FIX35 COMMIT
+//V3.1 - BRANCH FIX35 
 
