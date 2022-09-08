@@ -1,4 +1,7 @@
-﻿using System;
+﻿using System; 
+
+//Modificacao v2.1 FeatureX
+
 namespace aula_02
 {
     internal class Program
@@ -22,6 +25,7 @@ namespace aula_02
             for(int j = 0; j < 10; j++){
                 Console.WriteLine(coisa[i,j]);
             }
+            i--; // Modificacao 2.2
         }
     }
         //Chamando tudo -------------------------------------------------------
